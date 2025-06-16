@@ -72,6 +72,24 @@ Meu nome é Marcos Vinicios Vicente, sou estudante de Ciências Econômicas na U
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    
+<img 
+    align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+    
+<img 
+    align="left" 
+    alt="ScikitLearn" 
+    title="ScikitLearn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+          
+          
           
 <img 
     align="left" 
