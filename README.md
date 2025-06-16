@@ -117,7 +117,7 @@ Meu nome é Marcos Vinicios Vicente, sou estudante de Ciências Econômicas na U
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosVicente&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
