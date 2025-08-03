@@ -2,7 +2,7 @@
 
 **`Dev | Data Analyst`**
 
-Meu nome é Marcos Vinicios Vicente, sou estudante de Ciências Econômicas na Universidade Federal de Alagoas (UFAL) e formado como Técnico em Informática pelo Instituto Federal de Alagoas (IFAL). Tenho experiência em análise de dados, programação e desenvolvimento de software, com foco em Python e SQL para manipulação e visualização de dados.
+Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas (IFAL) e formado como Técnico em Informática pela mesma instituição. Tenho experiência em análise de dados, programação e desenvolvimento de software, com ênfase em Python e SQL para manipulação e visualização de dados.
 
 <p align="left">
     </a> 
