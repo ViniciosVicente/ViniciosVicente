@@ -1,8 +1,8 @@
 # 👨‍💻 Vinicios Vicente 
 
-**`Dev | Data Analyst`**
+**`Dev`**
 
-Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas (IFAL) e formado como Técnico em Informática pela mesma instituição. Tenho experiência em análise de dados, programação e desenvolvimento de software, com ênfase em Java, Python e SQL para manipulação e visualização de dados.
+Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas (IFAL) e formado como Técnico em Informática pela mesma instituição. Tenho experiência em análise de dados, programação e desenvolvimento de software, com ênfase em Javascript, java, Python e SQL para manipulação e visualização de dados.
 
 <p align="left">
     </a> 
@@ -103,22 +103,3 @@ Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciosVicente&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosVicente&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
