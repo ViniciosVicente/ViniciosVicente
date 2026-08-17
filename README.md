@@ -2,7 +2,9 @@
 
 **`Fullstack Developer`**
 
-Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas (IFAL) e formado como Técnico em Informática pela mesma instituição. Tenho experiência em análise de dados, programação e desenvolvimento de software, com ênfase em Javascript, java, Python e SQL para manipulação e visualização de dados.
+Estudante de Sistemas de Informação no IFAL e Técnico em Informática para Internet.
+Desenvolvo aplicações web, APIs e soluções utilizando tecnologias como JavaScript, Node.js, Python, SQL e React.
+Sempre buscando aprender, construir projetos e evoluir como desenvolvedor.
 
 <p align="left">
     </a> 
@@ -51,28 +53,28 @@ Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de
 
 <img 
     align="left" 
-    alt="Jupyter Notebook" 
-    title="Jupyter Notebook"
+    alt="HTML5" 
+    title="HTML5"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
     
 <img 
     align="left" 
-    alt="TensorFlow" 
-    title="TensorFlow"
+    alt="CSS3" 
+    title="Css3"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     
 <img 
     align="left" 
-    alt="ScikitLearn" 
-    title="ScikitLearn"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
           
           
           
