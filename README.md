@@ -1,6 +1,6 @@
-# 👨‍💻 Vinicios Vicente 
+#  Vinicios Vicente 
 
-**`Dev`**
+**`Fullstack Developer`**
 
 Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas (IFAL) e formado como Técnico em Informática pela mesma instituição. Tenho experiência em análise de dados, programação e desenvolvimento de software, com ênfase em Javascript, java, Python e SQL para manipulação e visualização de dados.
 
@@ -19,7 +19,7 @@ Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img 
@@ -39,14 +39,6 @@ Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -65,13 +57,6 @@ Meu nome é Marcos Vinicios Vicente, sou estudante de Bacharelado em Sistemas de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
           
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
     
 <img 
     align="left" 
