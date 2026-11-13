@@ -6,18 +6,7 @@ Estudante de Sistemas de Informação no IFAL e Técnico em Informática para In
 Desenvolvo aplicações web, APIs e soluções utilizando tecnologias como JavaScript, Node.js, Python, SQL e React.
 Sempre buscando aprender, construir projetos e evoluir como desenvolvedor.
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/ViniciosVicente?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ViniciosVicente?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ViniciosVicente?tab=following">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ViniciosVicente?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+
 
 ---
 
